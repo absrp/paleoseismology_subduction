@@ -1,0 +1,14 @@
+name: paleoseismology_subduction
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - pip:
+    - matplotlib
+    - scipy
+    - geopandas==0.10.2
+    - seaborn
+    - scikit-learn
+    - numpy
