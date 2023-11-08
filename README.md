@@ -23,10 +23,15 @@ A set of scripts to analyze the distribution of megathrust earthquakes in space 
 The data is contained in xlsx file. It currently contains data compiled in Philibosian and Meltzner (2020) and Dal Zilio et al. (2020) only but will be expanded to incorporate additional datasets. The original references are also included in the spreadsheet, based on what's reported in the compiling papers. 
 The data for each subduction zone in the xlsx file can be plotted by running the megathrust_events Jupyter Notebook.
 Subduction zones and compilation reference:
+
 Himalaya - Dal Zilio et al. (2020)
+
 Japan-Kurile - Philibosian and Meltzner (2020)
+
 Nankai-Sagami - Philibosian and Meltzner (2020)
+
 South America - Philibosian and Meltzner (2020)
+
 Sumatra-Andaman - Philibosian and Meltzner (2020)
 
 
