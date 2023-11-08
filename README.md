@@ -34,6 +34,8 @@ South America - Philibosian and Meltzner (2020)
 
 Sumatra-Andaman - Philibosian and Meltzner (2020)
 
+### Example catalog
+![image](https://github.com/absrp/paleoseismology_subduction/assets/52015046/8f37ed47-955a-4af6-a1c9-c8b7cd605f77)
 
 ### Prerequisites
 
