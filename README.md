@@ -49,7 +49,7 @@ Please report suggestions and issues:
 
 [@_absrp](https://twitter.com/_absrp) - alba@caltech.edu
 
-Project Link: [https://github.com/absrp/subduction_paleoseismology]([https://github.com/absrp/displacement_length_coseismic](https://github.com/absrp/subduction_paleoseismology))
+Project Link: [https://github.com/absrp/subduction_paleoseismology](https://github.com/absrp/subduction_paleoseismology)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
