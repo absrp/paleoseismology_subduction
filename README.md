@@ -1,11 +1,6 @@
 # paleoseismology_subduction
 A global catalog of paleoseismic data from subduction zones and a set of scripts to plot and analyze the event data
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-A set of scripts to analyze the distribution of megathrust earthquakes in space and time, from the paleoseismic record. 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
