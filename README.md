@@ -1,5 +1,5 @@
 # paleoseismology_subduction
-A set of scripts to plot and analyze paleoseismic data from subduction zones
+A global catalog of paleoseismic data from subduction zones and a set of scripts to plot and analyze the event data
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
