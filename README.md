@@ -22,7 +22,8 @@ Hikurangi - Clark et al. (2019)
 
 ### Example catalog
 Based on the compilation in Philibosian and Meltzner (2020)
-![image](https://github.com/absrp/paleoseismology_subduction/assets/52015046/8f37ed47-955a-4af6-a1c9-c8b7cd605f77)
+<img width="816" alt="image" src="https://github.com/absrp/paleoseismology_subduction/assets/52015046/f3de240d-b4ce-4b21-be25-99b25f991c4b">
+
 
 ### Prerequisites
 
